@@ -2,5 +2,5 @@
 Madhav Ecommerce Sales Dashboard
 
 ## Project Result
-![Result Screenshot](Screenshot (260).png)
+![Result Screenshot](Result.png)
 
